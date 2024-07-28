@@ -265,14 +265,14 @@
 }
 
 .section-title h1::before,
-.section-title h1::after {
-    /*position: absolute; */
+ /* .section-title h1::after {
+    position: absolute; 
     content: "";
     width: 45px;
     height: 5px;
     bottom: 0;
     background: var(--dark);
-}
+} */
 
 .section-title h1::before {
     left: 0;
